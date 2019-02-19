@@ -1,7 +1,8 @@
 # NOTA IMPORTANTE
-# para correr este programa es necesario tener instalada 
-# la librería de Diagrama de Ojo, la cual se encuentra en este 
+# para correr este programa es necesario: 
+# 1) tener instalada la librería de Diagrama de Ojo, la cual se encuentra en este 
 # enlace: https://github.com/hortegab/Diagrama-de-ojo-Comunicaciones-II.git
+# 2) En el archivo Senal hay unos datos por defecto para graficar el diagrama de ojo, pero este archivo se puede actualizar corriendo el flujograma adjunto no sin antes activaro el bloque "File Sink" que envia datos al archivo.
 
 
 from eyediagram.mpl import eyediagram
